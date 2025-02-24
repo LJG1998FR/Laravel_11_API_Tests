@@ -1,7 +1,0 @@
-  Client ID:  9e4597d5-d5f7-4c1d-b9d9-c8043905549e
-  Client secret: SRMsyDqj0tCYWqtOT19AHfzLWsh1EBnoJhbC4CSE
-
-
-
-Client ID ..................................................................... 9e4636dc-72d4-452d-a32d-b4a4c8474e4e
- Client secret ............................................................. np9yKe6xGAnQYIZ5jxpDr9X0gCAoIf88mqNZbjWw
