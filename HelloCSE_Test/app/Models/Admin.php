@@ -9,8 +9,10 @@ use Illuminate\Notifications\Notifiable;
 
 class Admin extends Authenticatable
 {
-    /** @use HasFactory<\Database\Factories\UserFactory> */
+    /** @use HasFactory<\Database\Factories\AdminFactory> */
     use HasFactory, Notifiable;
+
+    public $timestamps = FALSE;
 
     /**
      * The attributes that are mass assignable.
@@ -18,7 +20,8 @@ class Admin extends Authenticatable
      * @var list<string>
      */
     protected $fillable = [
-        'name',
+        'firstname',
+        'lastname',
         'email',
         'password',
     ];
